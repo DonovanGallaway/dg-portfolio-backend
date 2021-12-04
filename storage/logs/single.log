@@ -1,0 +1,26 @@
+2021-12-04 00:50:41 - WARNING - Python-dotenv could not parse statement starting at line 19
+2021-12-04 00:50:41 - WARNING - Python-dotenv could not parse statement starting at line 21
+2021-12-04 00:50:41 - WARNING - Python-dotenv could not parse statement starting at line 22
+2021-12-04 00:50:41 - WARNING - Python-dotenv could not parse statement starting at line 23
+2021-12-04 00:50:41 - WARNING - Python-dotenv could not parse statement starting at line 24
+2021-12-04 00:50:41 - WARNING - Python-dotenv could not parse statement starting at line 25
+2021-12-04 00:50:41 - WARNING - Python-dotenv could not parse statement starting at line 26
+2021-12-04 01:11:28 - WARNING - Python-dotenv could not parse statement starting at line 19
+2021-12-04 01:11:28 - WARNING - Python-dotenv could not parse statement starting at line 21
+2021-12-04 01:11:28 - WARNING - Python-dotenv could not parse statement starting at line 22
+2021-12-04 01:11:28 - WARNING - Python-dotenv could not parse statement starting at line 23
+2021-12-04 01:11:28 - WARNING - Python-dotenv could not parse statement starting at line 24
+2021-12-04 01:11:28 - WARNING - Python-dotenv could not parse statement starting at line 25
+2021-12-04 01:11:28 - WARNING - Python-dotenv could not parse statement starting at line 26
+2021-12-04 01:13:04 - WARNING - "GET /blog HTTP/1.1" 404 1536
+2021-12-04 01:13:04 - WARNING - Python-dotenv could not parse statement starting at line 19
+2021-12-04 01:13:04 - WARNING - Python-dotenv could not parse statement starting at line 21
+2021-12-04 01:13:04 - WARNING - Python-dotenv could not parse statement starting at line 22
+2021-12-04 01:13:04 - WARNING - Python-dotenv could not parse statement starting at line 23
+2021-12-04 01:13:04 - WARNING - Python-dotenv could not parse statement starting at line 24
+2021-12-04 01:13:04 - WARNING - Python-dotenv could not parse statement starting at line 25
+2021-12-04 01:13:04 - WARNING - Python-dotenv could not parse statement starting at line 26
+2021-12-04 01:13:04 - INFO - "GET /devblog HTTP/1.1" 200 844
+2021-12-04 01:13:04 - INFO - "GET /devblog/1 HTTP/1.1" 200 273
+2021-12-04 01:13:56 - ERROR - JSONDecodeError in C:\Python310\lib\json\decoder.py on line 353
+2021-12-04 01:13:56 - ERROR - "POST /devblog/ HTTP/1.1" 500 1058755
